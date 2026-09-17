@@ -31,3 +31,7 @@ pnpm dev
 pnpm build
 pnpm preview
 ```
+
+## 开源许可
+
+本项目基于 [MIT License](./LICENSE) 开源。
